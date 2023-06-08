@@ -14,4 +14,6 @@ The slides for the presentation of MemoRekall-IIIF from the IIIF Conference 2023
 
 [Tetras Libre website](www.tetras-libre.fr)
 
-[Prototype source code](gitlab.tetras-libre.fr/iiif )
+[Prototype source code](gitlab.tetras-libre.fr/iiif)
+
+[Reimagining Annotation for Multimodal Cultural Heritage Conference](https://reimagining-amch.sciencesconf.org/)
